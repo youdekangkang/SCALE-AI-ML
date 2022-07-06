@@ -1,0 +1,5 @@
+s1 = input()
+list = s1.strip().split(" ")
+print(list)
+s2 = "-".join(list)
+print(s2)
